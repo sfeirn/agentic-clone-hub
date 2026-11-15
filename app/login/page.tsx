@@ -1,3 +1,8 @@
+'use client'
+
+import React from 'react'
+// ... rest of your imports and component code
+
 import Link from "next/link";
 
 export const metadata = {
